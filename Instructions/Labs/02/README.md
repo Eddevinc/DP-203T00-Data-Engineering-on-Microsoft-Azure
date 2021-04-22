@@ -84,7 +84,7 @@ In this task, you create a star schema in SQL database, using foreign key constr
     - **Server**: Paste the SourceDB server name value here.
     - **Authentication type**: Select `SQL Login`.
     - **User name**: Enter `sqladmin`.
-    - **Password**: Enter the password you supplied when deploying the lab environment.
+    - **Password**: `password.1!!`
     - **Remember password**: Checked.
     - **Database**: Select `SourceDB`.
 

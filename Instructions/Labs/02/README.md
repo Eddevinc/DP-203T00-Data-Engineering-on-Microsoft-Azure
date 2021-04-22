@@ -1393,7 +1393,7 @@ Linked services in Synapse Analytics enables you to manage connections to extern
     - **Database name**: Select `SourceDB`
     - **Authentication type**: Select `SQL authentication`
     - **Username**: Enter `sqladmin`
-    - **Password**: Enter the password you provided during the environment setup (also used at the beginning of this lab)
+    - **Password**: `Password.1!!`
 
     ![The form is completed as described.](media/new-linked-service-sql-form.png "New linked service form")
 
